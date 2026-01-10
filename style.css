@@ -50,7 +50,7 @@ body{
     width:8px ;
     height: 8px;
     border-radius: 50%;
-    background-color: #fff;
+    background-color: #e2d9d9;
     z-index: 2;
 }
 .hand{
@@ -65,5 +65,5 @@ body{
     background-color: var(--clr);
     width: 4px;
     height: var(--h);
-    border-radius: 8px;
+    border-radius: 7.5px;
 }
